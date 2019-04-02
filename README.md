@@ -23,6 +23,28 @@
 1. Densely Connected Convolutional Networks
 
 
+#### RNN
+
+---
+
+1. Sequence to Sequence Learning with Neural Networks
+2. Neural Machine Translation by Jointly Learning to Align and Translation
+3. Attention in all you need
+
+#### Image Captioning
+
+---
+
+1. Show, Attend and Tell : Neural Image Caption Generation with Visual Attention
+
+
+#### Image Inpainting
+
+---
+
+1. Image Denoising and Inpainting with Deep Neural Networks
+2. Context Encoders : Feature Learning by Inpainting
+
 #### FMISL
 
 -----
