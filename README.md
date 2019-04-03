@@ -44,6 +44,7 @@
 
 1. Image Denoising and Inpainting with Deep Neural Networks
 2. Context Encoders : Feature Learning by Inpainting
+<https://github.com/sooah/paper_study/blob/master/Context_Encoders_Feature_Learning_by_Inpainting.pdf>
 
 #### FMISL
 
