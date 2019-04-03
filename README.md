@@ -37,6 +37,13 @@
 
 1. Show, Attend and Tell : Neural Image Caption Generation with Visual Attention
 
+#### Attention CNN
+
+---
+
+1. Residual Attention Network for Image Classification
+2. Attention U-Net : Learning Where to Look for the Pancreas
+
 
 #### Image Inpainting
 
