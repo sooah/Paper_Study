@@ -11,8 +11,8 @@
 2. Fully Convolutional Networks for Semantic Segmentation
 3. Learning Deconvolutional Network for Semantic Segmentation
 4. SegNet : A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
-5. [DeepLabv1] Semantic ImageSegmentation with Deep Convolutional Nets and Fully Connected CRFs
-6. [DeepLabv2] DeepLab : Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution and Fully Connected CRFs
+5. Semantic ImageSegmentation with Deep Convolutional Nets and Fully Connected CRFs [DeepLabv1] 
+6. DeepLab : Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution and Fully Connected CRFs [DeepLabv2] 
 7. You Only Look Once
 
 
@@ -20,7 +20,15 @@
 
 - - -
 
-1. Densely Connected Convolutional Networks
+1. Gradient-Based Learning Applied to Document Recognition [LeNet-5]
+2. ImageNet Classification with Deep Convolutional Neural Networks [AlexNet]
+3. Very Deep Convolutional Networks for Large-Scale Image Recognition  [VGG-16]
+4. Deep Residual Learning for Image Recognition [ResNet]
+5. Identity Mapping in Deep Residual Networks
+6. Wide Residual Networks
+7. Densely Connected Convolutional Networks 
+8. Inception-v3
+
 
 
 #### RNN
