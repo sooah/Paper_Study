@@ -11,8 +11,8 @@
 2. Fully Convolutional Networks for Semantic Segmentation
 3. Learning Deconvolutional Network for Semantic Segmentation
 4. SegNet : A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
-5. [DeepLabv1] Semantic ImageSegmentation with Deep Convolutional Nets and Fully Connected CRFs
-6. [DeepLabv2] DeepLab : Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution and Fully Connected CRFs
+5. Semantic ImageSegmentation with Deep Convolutional Nets and Fully Connected CRFs [DeepLabv1] 
+6. DeepLab : Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution and Fully Connected CRFs [DeepLabv2] 
 7. You Only Look Once
 
 
@@ -20,7 +20,15 @@
 
 - - -
 
-1. Densely Connected Convolutional Networks
+1. Gradient-Based Learning Applied to Document Recognition [LeNet-5]
+2. ImageNet Classification with Deep Convolutional Neural Networks [AlexNet]
+3. Very Deep Convolutional Networks for Large-Scale Image Recognition  [VGG-16]
+4. Deep Residual Learning for Image Recognition [ResNet]
+5. Identity Mapping in Deep Residual Networks
+6. Wide Residual Networks
+7. Densely Connected Convolutional Networks 
+8. Inception-v3
+
 
 
 #### RNN
@@ -37,6 +45,13 @@
 
 1. Show, Attend and Tell : Neural Image Caption Generation with Visual Attention
 
+#### Attention CNN
+
+---
+
+1. Residual Attention Network for Image Classification
+2. Attention U-Net : Learning Where to Look for the Pancreas
+
 
 #### Image Inpainting
 
@@ -44,6 +59,7 @@
 
 1. Image Denoising and Inpainting with Deep Neural Networks
 2. Context Encoders : Feature Learning by Inpainting
+<https://github.com/sooah/paper_study/blob/master/Context_Encoders_Feature_Learning_by_Inpainting.pdf>
 
 #### FMISL
 
@@ -53,3 +69,11 @@
 <https://github.com/sooah/paper_study/blob/master/FMISL/Computed_tomography_super-resolution_using_deep_convolutional_neural_network.pdf>
 2. Measurement of Glomerular Filtration Rate using Quantitative SPECT-CT and Deep-Learning based Kidney Segmentation
 <https://github.com/sooah/paper_study/blob/master/FMISL/Measurement_of_Glomerular_Filtration_Rate_using_Quantitative_SPECT-CT_and_Deep-Learning_based_Kidney_Segmentation.pdf>
+
+
+#### 개념 정리
+
+-----
+
+1. Bayes Theorem 과 Sigmoid Softmax 사이 관계
+
