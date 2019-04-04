@@ -69,3 +69,11 @@
 <https://github.com/sooah/paper_study/blob/master/FMISL/Computed_tomography_super-resolution_using_deep_convolutional_neural_network.pdf>
 2. Measurement of Glomerular Filtration Rate using Quantitative SPECT-CT and Deep-Learning based Kidney Segmentation
 <https://github.com/sooah/paper_study/blob/master/FMISL/Measurement_of_Glomerular_Filtration_Rate_using_Quantitative_SPECT-CT_and_Deep-Learning_based_Kidney_Segmentation.pdf>
+
+
+#### 개념 정리
+
+-----
+
+1. Bayes Theorem 과 Sigmoid Softmax 사이 관계
+
