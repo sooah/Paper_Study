@@ -51,6 +51,8 @@
 
 1. Residual Attention Network for Image Classification
 2. Attention U-Net : Learning Where to Look for the Pancreas
+3. RA-U Net : 3D hybrid residual attention-aware segmentation 
+<https://github.com/sooah/paper_study/blob/master/RA-UNet_A_hybrid_deep_attention-aware_network_to_extract_liver_and_tumor_in_CT_scans.md>
 
 
 #### Image Inpainting
