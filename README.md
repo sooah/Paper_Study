@@ -76,4 +76,5 @@
 -----
 
 1. Bayes Theorem 과 Sigmoid Softmax 사이 관계
+<https://github.com/sooah/paper_study/blob/master/Relationship_between_Bayes_Theorem_and_Sigmoid_Softmax.pdf>
 
