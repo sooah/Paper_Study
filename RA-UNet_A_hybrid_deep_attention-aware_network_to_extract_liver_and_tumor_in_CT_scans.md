@@ -1,6 +1,6 @@
 ## RA-U Net : 3D Hybrid Residual Attention-Aware Segmentation
 
-#### Introduction
+### Introduction
 
 ----------------------
 
@@ -32,7 +32,7 @@
 
 
 
-#### Related Works
+### Related Works
 
 --------------------
 
@@ -42,7 +42,7 @@
 
 
 
-#### Methodology
+### Methodology
 
 --------------------
 
