@@ -51,7 +51,24 @@
 
 1. Residual Attention Network for Image Classification
 2. Attention U-Net : Learning Where to Look for the Pancreas
+3. RA-U Net : 3D hybrid residual attention-aware segmentation 
+<https://github.com/sooah/paper_study/blob/master/RA-UNet_A_hybrid_deep_attention-aware_network_to_extract_liver_and_tumor_in_CT_scans.md>
 
+#### AutoEncoder
+
+----
+
+1. Auto-Encoding Variational Bayes
+
+#### GAN
+
+----
+
+1. Generative Adversarial Nets
+2. [DCGAN] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+3. [CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+4. [StarGAN] StarGAN : Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
+5. [DiscoGAN] Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
 
 #### Image Inpainting
 
