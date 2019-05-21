@@ -14,6 +14,10 @@
 5. Semantic ImageSegmentation with Deep Convolutional Nets and Fully Connected CRFs [DeepLabv1] 
 6. DeepLab : Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution and Fully Connected CRFs [DeepLabv2] 
 7. You Only Look Once
+8. RA-U Net : 3D hybrid residual attention-aware segmentation 
+<https://github.com/sooah/paper_study/blob/master/RA-UNet_A_hybrid_deep_attention-aware_network_to_extract_liver_and_tumor_in_CT_scans.md>
+9. [R2U-Net] Recurrent Residual Convolutional Neural Network based on U-Net(R2U-Net) for Medical Image Segmentation
+<https://github.com/sooah/paper_study/blob/master/%5BR2U-Net%5DRecurrent_Residual_Convolutional_Neural_Network_based_on_U-Net(R2U-Net)_for_Medical_Image_Segmentation.md>
 
 
 #### Classification
@@ -51,8 +55,6 @@
 
 1. Residual Attention Network for Image Classification
 2. Attention U-Net : Learning Where to Look for the Pancreas
-3. RA-U Net : 3D hybrid residual attention-aware segmentation 
-<https://github.com/sooah/paper_study/blob/master/RA-UNet_A_hybrid_deep_attention-aware_network_to_extract_liver_and_tumor_in_CT_scans.md>
 
 #### AutoEncoder
 
