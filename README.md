@@ -69,6 +69,7 @@
 1. Generative Adversarial Nets
 2. [DCGAN] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
 3. [CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+< https://github.com/sooah/paper_study/blob/master/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.md >
 4. [StarGAN] StarGAN : Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
 5. [DiscoGAN] Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
 
