@@ -1,4 +1,4 @@
-# paper_study
+# Paper_Study
 
 논문 읽어온 것들 간단히 정리
 
