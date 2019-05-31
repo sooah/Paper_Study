@@ -14,7 +14,7 @@ Paired example 없이 source domain X에서 target domain Y로 image translate�
 
 Goal : learn a mapping G : X → Y by adversarial loss (G(x)에서 나온 image의 distribution이 Y에서 나온 distribution과 구분되지 않음)
 
-![1558679815068](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558679815068.png)
+![image](https://user-images.githubusercontent.com/45067667/58673638-3e445500-8387-11e9-9507-ac87a1d62279.png)
 
 ### Introduction
 
@@ -28,7 +28,7 @@ Goal : learn a mapping G : X → Y by adversarial loss (G(x)에서 나온 image�
 
 ⇒ **paired input-output example 없이 domain 사이의 translate 하는 것을 배우는 알고리즘 만들자!**
 
-![1558679867114](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558679867114.png)
+![image](https://user-images.githubusercontent.com/45067667/58673657-4dc39e00-8387-11e9-9c4d-ecc3dc64ca8c.png)
 
 
 
@@ -140,7 +140,7 @@ cf) 앞으로 $x$ 의 data distribution : $x \sim p_{data}(x)$ / $y$의 data dis
 
 
 
-![1558526485024](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558526485024.png)
+![image](https://user-images.githubusercontent.com/45067667/58673670-5fa54100-8387-11e9-974b-ffdcccb665b1.png)
 
 
 
@@ -209,7 +209,7 @@ $$
 
 
 
-![1558528152532](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558528152532.png)  
+![image](https://user-images.githubusercontent.com/45067667/58673683-72b81100-8387-11e9-9cc2-8552b94e857d.png)  
 
  Fig 4 : cycle consistency loss의 역할 알 수 있으며, $F(G(x))$ 가 input image $x$와 거의 유사한 것 확인 가능
 
@@ -304,7 +304,7 @@ Discriminator network : 70X70 PatchGANs사용 (70X70의 overlapping image patch�
 
 ##### Analysis of the loss function
 
-![1558680129138](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558680129138.png)
+![image](https://user-images.githubusercontent.com/45067667/58673703-8a8f9500-8387-11e9-8d38-1325b54ac666.png)
 
 각 loss를 어떻게 사용했느냐에 따른 결과
 
@@ -312,5 +312,5 @@ Discriminator network : 70X70 PatchGANs사용 (70X70의 overlapping image patch�
 - GAN + forward cycle loss = GAN loss + $\mathbb{E}_{x \sim p_{data}(x)}[||F(G(x))-x||_1]$ 
 - GAN + backward cycle loss = GAN loss + $\mathbb{E}_{y \sim p_{data}(y)}[G(F(y))-y||_1]$ 
 
-![1558680444485](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558680444485.png)
+![image](https://user-images.githubusercontent.com/45067667/58673719-97ac8400-8387-11e9-90c2-570d526c8294.png)
 
