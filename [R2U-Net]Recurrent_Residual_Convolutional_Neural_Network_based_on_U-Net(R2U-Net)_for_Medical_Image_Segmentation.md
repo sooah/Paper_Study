@@ -93,7 +93,7 @@
 
 
 
-![1558339759206](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558339759206.png)
+![image](https://user-images.githubusercontent.com/45067667/58673582-eb6a9d80-8386-11e9-9728-65419dbbb14a.png)
 
 
 
@@ -139,7 +139,7 @@
 
 → RRCNN block 의 residual unit의 feature map의 갯수와 dimension과 동일함
 
-![1558341602115](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558341602115.png)
+![image](https://user-images.githubusercontent.com/45067667/58673598-03422180-8387-11e9-892b-f0ed6bdbe4e5.png)
 
 - proposed method : 위 그림에서 (b)와 (d)를 stack하여 만듦
 
@@ -159,7 +159,7 @@
 
 - Pictorial representation of time step에 대한 unfolded RCL layer
 
-  ![1558341924275](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558341924275.png)
+  ![image](https://user-images.githubusercontent.com/45067667/58673605-1228d400-8387-11e9-85ec-4f692f424107.png)
 
   : 1개의 convolution의 경우 2개의 연속적인 recurrent convolution이 뒤따라옴
 
