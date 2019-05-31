@@ -94,7 +94,7 @@ CT : HU 값 사용(-1000~1000) ⇒ liver region만 clean하게 남기기 위해 
 
      
 
-![1558333101148](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558333101148.png)
+![image](https://user-images.githubusercontent.com/45067667/58673450-667f8400-8386-11e9-84af-dc32fadff008.png)
 
 - Stacked residual block : gradient vanishing problem 해결 
   -  neural network의 structure level에서 해결 → skip connection 으로 identity mapping 사용 → activation
@@ -106,7 +106,7 @@ CT : HU 값 사용(-1000~1000) ⇒ liver region만 clean하게 남기기 위해 
   - $ f $ : residual mapping
 - BN → activation(ReLU) → convolution
 
-![1558334391028](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558334391028.png)
+![image](https://user-images.githubusercontent.com/45067667/58673494-84e57f80-8386-11e9-8296-0c60aa2a3989.png)
 
 3. Attention residual mechanism
 
@@ -127,6 +127,7 @@ CT : HU 값 사용(-1000~1000) ⇒ liver region만 clean하게 남기기 위해 
 
   → 다 하고 나서 sigmoid layer (output normalize하기 위해)
 
-  ![1558334690544](C:\Users\soua\AppData\Roaming\Typora\typora-user-images\1558334690544.png)
+![image](https://user-images.githubusercontent.com/45067667/58673514-96c72280-8386-11e9-85a9-faf0c1bee149.png)
 
 ⇒ trunk branch로부터 온 original feature information은 keep & soft mask branch 에서 liver tumor feature 에pay attention
+
