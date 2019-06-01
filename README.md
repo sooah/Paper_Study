@@ -51,12 +51,12 @@ Num | Name | Paper Name
 02 | | Neural Machine Translation by Jointly Learning to Align and Translation
 03 | Attention | Attention in all you need
 
+
 #### Image Captioning
 
 ---
 
 Num | Name | Paper Name 
- | Link | 
 --- | --- | --- 
 01 |  | Show, Attend and Tell : Neural Image Caption Generation with Visual Attention
 
@@ -97,12 +97,12 @@ Num | Name | Paper Name
 
 -----
 
-Num | Name | Paper Name 
---- | --- | --- 
-01 |  | Computed tomography super-resolution using deep convolutional neural network 
- | | | https://github.com/sooah/paper_study/blob/master/FMISL/Computed_tomography_super-resolution_using_deep_convolutional_neural_network.pdf 
-02 |  | Measurement of Glomerular Filtration Rate using Quantitative SPECT-CT and Deep-Learning based Kidney Segmentation 
- | | | https://github.com/sooah/paper_study/blob/master/FMISL/Measurement_of_Glomerular_Filtration_Rate_using_Quantitative_SPECT-CT_and_Deep-Learning_based_Kidney_Segmentation.pdf
+Num | Paper Name 
+--- | --- 
+01 | Computed tomography super-resolution using deep convolutional neural network 
+ | |  https://github.com/sooah/paper_study/blob/master/FMISL/Computed_tomography_super-resolution_using_deep_convolutional_neural_network.pdf 
+02 |  Measurement of Glomerular Filtration Rate using Quantitative SPECT-CT and Deep-Learning based Kidney Segmentation 
+ | |  https://github.com/sooah/paper_study/blob/master/FMISL/Measurement_of_Glomerular_Filtration_Rate_using_Quantitative_SPECT-CT_and_Deep-Learning_based_Kidney_Segmentation.pdf
 
 
 #### 개념 정리
