@@ -7,8 +7,9 @@
 -----
 
 Num | Name | Paper Name 
- | Link | 
 --- | --- | --- 
+ | Link | 
+--- | --- | ---
 01 | U-Net | U-Net : Convolutional Networks for Biomedical Image Segmentation 
  | https://github.com/sooah/paper_study/blob/master/U-Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.pdf | 
 02 | FCN |  Fully Convolutional Networks for Semantic Segmentation
