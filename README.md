@@ -8,10 +8,8 @@
 
 Num | Name | Paper Name 
 --- | --- | --- 
- | Link | 
---- | --- | ---
 01 | U-Net | U-Net : Convolutional Networks for Biomedical Image Segmentation 
- | https://github.com/sooah/paper_study/blob/master/U-Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.pdf | 
+https://github.com/sooah/paper_study/blob/master/U-Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.pdf 
 02 | FCN |  Fully Convolutional Networks for Semantic Segmentation
 03 | | Learning Deconvolutional Network for Semantic Segmentation  
 04 | SegNet | SegNet : A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation 
@@ -20,9 +18,9 @@ Num | Name | Paper Name
 07 | YOLO | You Only Look Once
 08 | Attention U-Net | Attention U-Net : Learning Where to Look for the Pancreas
 09 | RA-UNet | RA-U Net : 3D hybrid residual attention-aware segmentation 
- | <https://github.com/sooah/paper_study/blob/master/RA-UNet_A_hybrid_deep_attention-aware_network_to_extract_liver_and_tumor_in_CT_scans.md> |  
+ <https://github.com/sooah/paper_study/blob/master/RA-UNet_A_hybrid_deep_attention-aware_network_to_extract_liver_and_tumor_in_CT_scans.md> 
 10 | R2U-Net | Recurrent Residual Convolutional Neural Network based on U-Net(R2U-Net) for Medical Image Segmentation 
- |<https://github.com/sooah/paper_study/blob/master/%5BR2U-Net%5DRecurrent_Residual_Convolutional_Neural_Network_based_on_U-Net(R2U-Net)_for_Medical_Image_Segmentation.md> |
+ <https://github.com/sooah/paper_study/blob/master/%5BR2U-Net%5DRecurrent_Residual_Convolutional_Neural_Network_based_on_U-Net(R2U-Net)_for_Medical_Image_Segmentation.md> 
 11 | DeepLab V3+ | Encoder-decoder with Astrous Separable Convolution for Semantic Image Segmentation 
 
 
