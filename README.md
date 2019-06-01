@@ -7,21 +7,21 @@
 -----
 
 Num | Name | Paper Name 
-|Link|
---- | --- | --- | ---
+ | Link | 
+--- | --- | --- 
 01 | U-Net | U-Net : Convolutional Networks for Biomedical Image Segmentation 
-||https://github.com/sooah/paper_study/blob/master/U-Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.pdf||
-02 | FCN |  Fully Convolutional Networks for Semantic Segmentation | 
-03 | | Learning Deconvolutional Network for Semantic Segmentation | 
-04 | SegNet | SegNet : A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation |
-05 | DeepLab V1 | Semantic ImageSegmentation with Deep Convolutional Nets and Fully Connected CRFs |
-06 | DeepLab V2 | DeepLab : Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution and Fully Connected CRFs |  
+ | https://github.com/sooah/paper_study/blob/master/U-Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.pdf | 
+02 | FCN |  Fully Convolutional Networks for Semantic Segmentation
+03 | | Learning Deconvolutional Network for Semantic Segmentation  
+04 | SegNet | SegNet : A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation 
+05 | DeepLab V1 | Semantic ImageSegmentation with Deep Convolutional Nets and Fully Connected CRFs 
+06 | DeepLab V2 | DeepLab : Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution and Fully Connected CRFs 
 07 | YOLO | You Only Look Once
 08 | Attention U-Net | Attention U-Net : Learning Where to Look for the Pancreas
 09 | RA-UNet | RA-U Net : 3D hybrid residual attention-aware segmentation 
-||<https://github.com/sooah/paper_study/blob/master/RA-UNet_A_hybrid_deep_attention-aware_network_to_extract_liver_and_tumor_in_CT_scans.md>||
+ | <https://github.com/sooah/paper_study/blob/master/RA-UNet_A_hybrid_deep_attention-aware_network_to_extract_liver_and_tumor_in_CT_scans.md> |  
 10 | R2U-Net | Recurrent Residual Convolutional Neural Network based on U-Net(R2U-Net) for Medical Image Segmentation 
-||<https://github.com/sooah/paper_study/blob/master/%5BR2U-Net%5DRecurrent_Residual_Convolutional_Neural_Network_based_on_U-Net(R2U-Net)_for_Medical_Image_Segmentation.md>||
+ |<https://github.com/sooah/paper_study/blob/master/%5BR2U-Net%5DRecurrent_Residual_Convolutional_Neural_Network_based_on_U-Net(R2U-Net)_for_Medical_Image_Segmentation.md> |
 11 | DeepLab V3+ | Encoder-decoder with Astrous Separable Convolution for Semantic Image Segmentation 
 
 
@@ -30,8 +30,8 @@ Num | Name | Paper Name
 - - -
 
 Num | Name | Paper Name 
-||Link||
---- | --- | --- | ---
+ | Link |
+--- | --- | --- 
 01 | LeNet-5 | Gradient-Based Learning Applied to Document Recognition
 02 | AlexNet | ImageNet Classification with Deep Convolutional Neural Networks 
 03 | VGG-16 | Very Deep Convolutional Networks for Large-Scale Image Recognition 
@@ -48,8 +48,8 @@ Num | Name | Paper Name
 ---
 
 Num | Name | Paper Name 
-|| Link||
---- | --- | --- | ---
+ | Link| 
+--- | --- | --- 
 01 | Seq2Seq | Sequence to Sequence Learning with Neural Networks
 02 | | Neural Machine Translation by Jointly Learning to Align and Translation
 03 | Attention | Attention in all you need
@@ -58,8 +58,9 @@ Num | Name | Paper Name
 
 ---
 
-Num | Name | Paper Name | Link
---- | --- | --- | ---
+Num | Name | Paper Name 
+ | Link | 
+--- | --- | --- 
 01 |  | Show, Attend and Tell : Neural Image Caption Generation with Visual Attention
 
 
@@ -75,37 +76,47 @@ Num | Name | Paper Name | Link
 
 ----
 
-Num | Name | Paper Name | Link
---- | --- | --- | ---
+Num | Name | Paper Name 
+ | Link | 
+--- | --- | --- 
 01 | GAN | Generative Adversarial Nets
 02 | DCGAN | Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
-03 | CycleGAN | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks |  https://github.com/sooah/paper_study/blob/master/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.md 
-04 | StarGAN | StarGAN : Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation | https://github.com/sooah/paper_study/blob/master/StarGAN_Unified_Generative_Adversarial_Networks_for_Multi-Domain_Image-to-Image_Translation.md 
+03 | CycleGAN | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks 
+ | https://github.com/sooah/paper_study/blob/master/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.md | 
+04 | StarGAN | StarGAN : Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation 
+ | https://github.com/sooah/paper_study/blob/master/StarGAN_Unified_Generative_Adversarial_Networks_for_Multi-Domain_Image-to-Image_Translation.md |  
 05 | DiscoGAN | Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
 
 #### Image Inpainting
 
 ---
 
-Num | Name | Paper Name | Link
---- | --- | --- | ---
+Num | Name | Paper Name 
+  | Link | 
+--- | --- | --- 
 01 |  | Image Denoising and Inpainting with Deep Neural Networks
-02 |  | Context Encoders : Feature Learning by Inpainting | https://github.com/sooah/paper_study/blob/master/Context_Encoders_Feature_Learning_by_Inpainting.pdf
+02 |  | Context Encoders : Feature Learning by Inpainting 
+ | https://github.com/sooah/paper_study/blob/master/Context_Encoders_Feature_Learning_by_Inpainting.pdf | 
 
 #### FMISL
 
 -----
 
-Num | Name | Paper Name | Link
---- | --- | --- | ---
-01 |  | Computed tomography super-resolution using deep convolutional neural network | https://github.com/sooah/paper_study/blob/master/FMISL/Computed_tomography_super-resolution_using_deep_convolutional_neural_network.pdf
-02 |  | Measurement of Glomerular Filtration Rate using Quantitative SPECT-CT and Deep-Learning based Kidney Segmentation | https://github.com/sooah/paper_study/blob/master/FMISL/Measurement_of_Glomerular_Filtration_Rate_using_Quantitative_SPECT-CT_and_Deep-Learning_based_Kidney_Segmentation.pdf
+Num | Name | Paper Name 
+ | Link | 
+--- | --- | --- 
+01 |  | Computed tomography super-resolution using deep convolutional neural network 
+ | https://github.com/sooah/paper_study/blob/master/FMISL/Computed_tomography_super-resolution_using_deep_convolutional_neural_network.pdf | 
+02 |  | Measurement of Glomerular Filtration Rate using Quantitative SPECT-CT and Deep-Learning based Kidney Segmentation 
+ | https://github.com/sooah/paper_study/blob/master/FMISL/Measurement_of_Glomerular_Filtration_Rate_using_Quantitative_SPECT-CT_and_Deep-Learning_based_Kidney_Segmentation.pdf | 
 
 
 #### 개념 정리
 
 -----
-Num | Name | Link
---- | --- | ---
-01 | Bayes Theorem 과 Sigmoid Softmax 사이 관계 | https://github.com/sooah/paper_study/blob/master/Relationship_between_Bayes_Theorem_and_Sigmoid_Softmax.pdf
+Num | Name 
+ | Link | 
+--- | --- 
+01 | Bayes Theorem 과 Sigmoid Softmax 사이 관계 
+ | https://github.com/sooah/paper_study/blob/master/Relationship_between_Bayes_Theorem_and_Sigmoid_Softmax.pdf | 
 
