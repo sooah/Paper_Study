@@ -22,7 +22,7 @@ Num | Name | Paper Name
 10 | R2U-Net | Recurrent Residual Convolutional Neural Network based on U-Net(R2U-Net) for Medical Image Segmentation 
  | | | <https://github.com/sooah/paper_study/blob/master/%5BR2U-Net%5DRecurrent_Residual_Convolutional_Neural_Network_based_on_U-Net(R2U-Net)_for_Medical_Image_Segmentation.md> 
 11 | DeepLab V3+ | Encoder-decoder with Astrous Separable Convolution for Semantic Image Segmentation 
-
+ | | | https://github.com/sooah/Paper_Study/blob/master/%5BDeepLabV3%2B%5DEncoder-Decoder_with_Atrous_Separable_Convolution_for_Semantic_Image_Segmentation.md
 
 #### Classification
 
