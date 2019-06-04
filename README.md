@@ -67,7 +67,7 @@ Num | Name | Paper Name
 
 Num | Name | Paper Name 
 --- | --- | --- 
-01 | AutoEncoder | Auto-Encoding Variational Bayes 
+01 | VAE | Auto-Encoding Variational Bayes 
 
 #### GAN
 
@@ -82,6 +82,15 @@ Num | Name | Paper Name
 04 | StarGAN | StarGAN : Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation 
  | | | https://github.com/sooah/paper_study/blob/master/StarGAN_Unified_Generative_Adversarial_Networks_for_Multi-Domain_Image-to-Image_Translation.md   
 05 | DiscoGAN | Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
+
+#### Object Tracking
+
+------
+
+Num | Name | Paper Name
+--- | --- | ---
+01 | GOTURN | Learning to Track at 100 FPS with Deep Regression Networks
+
 
 #### Image Inpainting
 
