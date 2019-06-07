@@ -4,7 +4,7 @@
 
 #### Segmentation
 
------
+--------------
 
 | Num  | Name            | Paper Name                                                   |
 | ---- | --------------- | ------------------------------------------------------------ |
@@ -24,6 +24,7 @@
 | 11   | DeepLab V3+     | Encoder-decoder with Astrous Separable Convolution for Semantic Image Segmentation |
 |      |                 |                                                              |
 
+
 #### Classification
 
 - - -
@@ -41,6 +42,7 @@
 | 09   |              | Residual Attention Network for Image Classification          |
 
 
+
 #### RNN
 
 ---
@@ -50,6 +52,7 @@
 | 01   | Seq2Seq   | Sequence to Sequence Learning with Neural Networks           |
 | 02   |           | Neural Machine Translation by Jointly Learning to Align and Translation |
 | 03   | Attention | Attention in all you need                                    |
+
 
 
 #### Image Captioning
@@ -69,6 +72,7 @@
 | ---- | ---- | ------------------------------- |
 | 01   | VAE  | Auto-Encoding Variational Bayes |
 
+
 #### GAN
 
 ----
@@ -83,6 +87,7 @@
 |      |          |                                                              |
 | 05   | DiscoGAN | Learning to Discover Cross-Domain Relations with Generative Adversarial Networks |
 
+
 #### Object Tracking
 
 ------
@@ -90,6 +95,7 @@
 | Num  | Name   | Paper Name                                                 |
 | ---- | ------ | ---------------------------------------------------------- |
 | 01   | GOTURN | Learning to Track at 100 FPS with Deep Regression Networks |
+
 
 
 #### Image Inpainting
@@ -102,6 +108,7 @@
 | 02   |      | Context Encoders : Feature Learning by Inpainting        |
 |      |      |                                                          |
 
+
 #### FMISL
 
 -----
@@ -112,6 +119,7 @@
 |      |                                                              |
 | 02   | Measurement of Glomerular Filtration Rate using Quantitative SPECT-CT and Deep-Learning based Kidney Segmentation |
 |      |                                                              |
+
 
 
 #### 개념 정리
