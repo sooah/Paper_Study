@@ -43,6 +43,31 @@
 
 
 
+#### Object Detection
+
+------
+
+| Num  | Name         | Paper Name                                                   |
+| ---- | ------------ | ------------------------------------------------------------ |
+| 01   | YOLO         | You Only Look Once                                           |
+|      |              |                                                              |
+| 02   | RCNN         | Rich feature hierarchies for accuarate object detection and semantic segmentation |
+|      |              |                                                              |
+| 03   | Fast RCNN    | Fast R-CNN                                                   |
+|      |              |                                                              |
+| 04   | Faster R-CNN | Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks |
+|      |              |                                                              |
+| 05   | Mask R-CNN   | Mask R-CNN                                                   |
+|      |              |                                                              |
+| 06   | SSD          | SSD : Single Shot Multibox Detector                          |
+|      |              |                                                              |
+
+
+
+
+
+
+
 #### RNN
 
 ---
@@ -95,7 +120,7 @@
 | Num  | Name   | Paper Name                                                 |
 | ---- | ------ | ---------------------------------------------------------- |
 | 01   | GOTURN | Learning to Track at 100 FPS with Deep Regression Networks |
-
+| 02 |  | High Performance Visual Tracking with Siamese Region Proposal Network|
 
 
 #### Image Inpainting
@@ -108,6 +133,11 @@
 | 02   |      | Context Encoders : Feature Learning by Inpainting        |
 |      |      |                                                          |
 
+#### Recommendation
+-----
+| Num | Paper Name|
+| --- | --- |
+| 01 | Factorization Machines |
 
 #### FMISL
 
