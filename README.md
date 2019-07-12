@@ -137,10 +137,10 @@
 
 ---
 
-| Num | Name | Paper Name | Note | 
-| --- | ---- | -----------------------| ---- | 
-| 01 | | Stand-Alone Self-Attention in Vision Models| convolution을 self-attention으로 대체 |
-| | | https://github.com/sooah/Paper_Study/blob/master/Stand-Alone_Self-Attention_in_Vision_Models.md| | 
+| Num | Note | Paper Name |
+| --- | ------| ---- | 
+| 01 | convolution을 self-attention으로 대체 | Stand-Alone Self-Attention in Vision Models| 
+| | | https://github.com/sooah/Paper_Study/blob/master/Stand-Alone_Self-Attention_in_Vision_Models.md|
 
 
 
