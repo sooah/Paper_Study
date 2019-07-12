@@ -133,6 +133,17 @@
 | 02   |      | Context Encoders : Feature Learning by Inpainting        |
 |      |      | https://github.com/sooah/Paper_Study/blob/master/Inpainting/Context_Encoders_Feature_Learning_by_Inpainting.pdf |
 
+### 그 외
+
+---
+
+| Num | Name | Paper Name | Note | 
+| --- | ---- | -----------------------| ---- | 
+| 01 | | Stand-Alone Self-Attention in Vision Models| convolution을 self-attention으로 대체 |
+| | | https://github.com/sooah/Paper_Study/blob/master/Stand-Alone_Self-Attention_in_Vision_Models.md| | 
+
+
+
 #### Recommendation
 -----
 | Num | Paper Name|
